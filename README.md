@@ -1,5 +1,5 @@
 ## Name  
-Hi my name is Sparsh Jain, I am a 14 year old studying in DPS bangalore south, I am very eager to learn new things and solve real world problems
+Hi my name is Sparsh Jain Chajjed, I am a 14 year old studying in DPS bangalore south, I am very eager to learn new things and solve real world problems
 
 ## Skills  
 
@@ -58,3 +58,4 @@ Hi my name is Sparsh Jain, I am a 14 year old studying in DPS bangalore south, I
 - **CodePie 2025** – 2nd place S.A.I. (hackathon); 2nd place SafeSteps (ideathon); NeuroShield top 10 (ideathon); Bhoomi top 20 (hackathon) – prizes worth over ₹50000  
 - **HackNexus** – Top-three prize, worth ₹30000  
 - **HACK 2025** – 2nd place for CardioAlert  
+
